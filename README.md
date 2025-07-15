@@ -1,0 +1,1 @@
+Automatically send a reminder email to clients who haven’t paid their invoice by checking emails with the subject line "Invoice Due" and then sending a reminder if a payment confirmation hasn't been received.
